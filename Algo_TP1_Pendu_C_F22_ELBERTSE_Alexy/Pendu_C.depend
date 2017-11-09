@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1510220629 source:d:\exo_c\pendu_c\pendu_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
